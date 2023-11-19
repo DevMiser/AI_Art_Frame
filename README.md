@@ -1,9 +1,18 @@
-<img width="521" alt="1" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/89a8f123-faa2-4672-990f-6fd3f55f6de5">
-<img width="523" alt="2" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/3dee6be9-69d0-45b1-9f70-423a222092f2">
-<img width="508" alt="3" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/711849db-3c01-4a99-a4de-bbbd95553183">
-<img width="499" alt="4" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/9ea279f3-88c7-410c-bec8-a458a20429db">
-<img width="490" alt="5" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/befe04a6-bf89-4c21-a22d-781eb9410b92">
-<img width="491" alt="6" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/98850872-cdb9-4d03-aa5a-b559e978eb90">
-<img width="497" alt="7" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/cd119409-6f95-4299-ad9b-a6d5e04787ad">
-<img width="504" alt="8" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/0447470d-4ac7-4e6c-b416-134606074aeb">
-<img width="504" alt="8" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/ae6a42ed-827a-4417-9461-d7338131d266">
+<img width="521" alt="1" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/568f6434-ed05-4062-9ef7-ba79e94abbeb">
+
+<img width="523" alt="2" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/c2144058-80e2-4500-8166-fb57c020fde4">
+
+<img width="508" alt="3" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/c43b9f1a-2a47-40a6-a5e8-bad165caa107">
+
+<img width="499" alt="4" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/f2037cb4-2f35-4cfb-a7b3-91aa8bbb0bf7">
+
+<img width="490" alt="5" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/b2701f58-d4c6-4f6d-aa50-a203fa7130a3">
+
+<img width="491" alt="6" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/b45e678c-578d-457f-846f-1959c81479e1">
+
+<img width="497" alt="7" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/55ec625b-b641-4229-8fed-f9db8892d39b">
+
+<img width="504" alt="8" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/1c0b6563-d1c5-4102-b8c0-c7fa219b092b">
+
+<img width="497" alt="9" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/eb9d5f10-5dff-4bd5-adc7-78a098404ca0">
+
