@@ -20,6 +20,7 @@ import urllib.request
 
 from colorama import Fore, Style
 from inky.auto import auto
+from openai import OpenAI
 from PIL import Image,ImageDraw,ImageFont,ImageOps,ImageEnhance
 from pvleopard import *
 from pvrecorder import PvRecorder
@@ -44,6 +45,8 @@ display = auto()
 
 openai.api_key = "put your secret API key between these quotation marks"
 pv_access_key= "put your secret access key between these quotation marks"
+
+client = OpenAI(api_key=openai.api_key)
 
 Clear_list = ["Clear",
     "Clear the screen",
@@ -127,14 +130,16 @@ def current_time():
     formatted_time = time_now.strftime("%m-%d-%Y %I:%M %p\n")
     print("The current date and time is:", formatted_time)  
 
-def dall_e2(prompt):
+def dall_e3(prompt):
     try:
-        response = openai.Image.create(
+        response = client.images.generate(
+            model="dall-e-3",
             prompt=prompt,
+            size="1024x1024",
+            quality="standard",
             n=1,
-            size="512x512" #can also be 256x256 or 1024x1024
         )
-        return (response['data'][0]['url'])
+        return (response.data[0].url) 
     except ConnectionResetError:
         print("ConnectionResetError")
         current_time()
@@ -323,10 +328,10 @@ try:
 #            prompt_full = (transcript + (" in the style of ") + Style + (", using only shades of the colors blue, green, red, white, yellow, orange and black."))   
             print("You requested: " + prompt_full)
             print("\nCreating...")   
-            image_url = dall_e2(prompt_full)
+            image_url = dall_e3(prompt_full)
             raw_data = urllib.request.urlopen(image_url).read()
             img = Image.open(io.BytesIO(raw_data))
-            img_bordered = ImageOps.expand(img, border=(76,0), fill='black')    
+            img_bordered = ImageOps.expand(img, border=(152,0), fill='black')    
             img_resized = img_bordered.resize((600, 448), Image.ANTIALIAS)
 
 #     curr_col = ImageEnhance.Color(img_resized)
