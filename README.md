@@ -1,3 +1,5 @@
+On March 26, 2024, OpenAI updated its billing system to require the pre-purchase of credits in order to use the API for most users.  If you do not pre-purchase credits, you will get an API error.
+
 <img width="521" alt="1" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/568f6434-ed05-4062-9ef7-ba79e94abbeb">
 
 <img width="523" alt="2" src="https://github.com/DevMiser/AI_Art_Frame/assets/22980908/c2144058-80e2-4500-8166-fb57c020fde4">
